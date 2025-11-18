@@ -1,0 +1,3 @@
+- GPT-oss 20B
+- Grounding DINO
+- SAM2
